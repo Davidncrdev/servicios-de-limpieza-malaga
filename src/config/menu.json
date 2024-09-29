@@ -1,0 +1,61 @@
+{
+  "main": [
+    {
+      "name": "Inicio",
+      "url": "/"
+    },
+    {
+      "name": "Sobre nosotros",
+      "url": "/about"
+    },
+    {
+      "name": "servicios",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "limpieza de domicilios",
+          "url": "/career"
+        },
+
+        {
+          "name": "limpieza de locales comerciales",
+          "url": "/integrations"
+        },
+
+        {
+          "name": "limpieza de garages",
+          "url": "/pricing"
+        },
+        {
+          "name": "limpieza de cristales",
+          "url": "/signin"
+        },
+
+        {
+          "name": "limpieza de fin de obra",
+          "url": "/elements"
+        }
+      ]
+    },
+    {
+      "name": "Contacto",
+      "url": "/contact"
+    }
+  ],
+
+  "footer": [
+    {
+      "name": "Sobre nosotros" ,
+      "url": "/about"
+    },
+    {
+      "name": "Contacto",
+      "url": "/contact"
+    },
+    {
+      "name": "servicios",
+      "url": "/servicios"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "site": {
+    "title": "servicios de limpieza",
+    "base_url": "",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_width": "147",
+    "logo_height": "45",
+    "logo_text": "Actividades de limpieza"
+  },
+
+  "settings": {
+    "pagination": 6,
+    "summary_length": 100,
+    "blog_folder": "blog"
+  },
+
+  "call_to_action": {
+    "title": "Confía en los mejores para la limpieza de tus espacios",
+    "description": "Ofrecemos un servicio de limpieza profesional y de calidad en Málaga. Contáctanos para mantener tu hogar o negocio impecable.",
+    "button": {
+      "label": "Solicita un presupuesto",
+      "link": "tel:+34692381424"
+    }
+  },
+
+  "disqus": {
+    "enable": true,
+    "shortname": "themefisher-template",
+    "settings": {}
+  },
+
+  "params": {
+    "footer_description": "",
+    "email": "info@andromeda.io",
+    "location": "Camino san rafael, Málaga, (Málaga) 29004",
+    "phone": "+34692381424",
+    "contact_form_action": "#",
+    "copyright": "Copyright © 2024 derechos reservados [Fyve Studi Pro S.L.](https://fyvestudio.pro/webs)"
+  },
+
+  "metadata": {
+    "meta_author": "Themefisher",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "pinwheel astro"
+  }
+}
