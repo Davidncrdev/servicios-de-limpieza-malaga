@@ -21,7 +21,7 @@ key_features:
       content: Mantenemos tu espacio de trabajo limpio y acogedor para tus clientes.
     - icon: "tool"  #icon package react-feather-icon [https://feathericons.com/]
       title: Limpieza de Fin de Obra
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      content: Nos encargamos de la limpieza profunda tras la finalización de obras.
     - icon: "sun"  #icon package react-feather-icon [https://feathericons.com/]
       title: limpieza de cristales
       content: Cristales relucientes para mejorar la imagen de tu hogar o negocio.
